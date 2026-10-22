@@ -1,0 +1,55 @@
+:host {
+  display: block;
+  min-height: 100vh;
+  background-color: #11111b;
+  color: #cdd6f4;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  padding: 2rem 1rem;
+}
+
+header {
+  text-align: center;
+  margin-bottom: 2rem;
+}
+
+header h1 {
+  font-size: 2rem;
+  font-weight: 800;
+  color: #f5e0dc;
+  margin: 0;
+}
+
+/* Layout Principal com Flexbox */
+main {
+  max-width: 1200px;
+  margin: 0 auto;
+  display: flex;
+  flex-wrap: wrap;
+  /* Permite que os cards passem para a linha seguinte */
+  gap: 2rem;
+  /* Espaçamento entre os cards */
+  justify-content: center;
+  /* Centra os elementos horizontalmente */
+  padding: 1rem;
+}
+
+/* Container que envolve cada card individual */
+.card-item {
+  flex: 0 1 240px;
+  /* Cresce/encolhe de forma controlada com base em 240px */
+  max-width: 280px;
+  width: 100%;
+}
+
+/* Estilo para quando a lista está vazia */
+.empty-message {
+  width: 100%;
+  /* Ocupa a largura total da linha */
+  text-align: center;
+  font-size: 1.1rem;
+  color: #6c7086;
+  padding: 3rem;
+  background-color: #1e1e2e;
+  border-radius: 12px;
+  border: 1px dashed rgba(255, 255, 255, 0.1);
+}

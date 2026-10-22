@@ -1,0 +1,161 @@
+{
+  "$schema": "./node_modules/json-server/schema.json",
+  "albums": [
+    {
+      "id": 1,
+      "title": "In Verses",
+      "artist": "Karnivool",
+      "coverUrl": "https://lastfm.freetls.fastly.net/i/u/300x300/3e52ee3f26138612140683a4c0bb6f10.png"
+    },
+    {
+      "id": 2,
+      "title": "Asymmetry",
+      "artist": "Karnivool",
+      "coverUrl": "https://lastfm.freetls.fastly.net/i/u/300x300/e01614948a4d46b7a97dc9d3cb590d9f.png"
+    },
+    {
+      "id": 3,
+      "title": "Act II: The Meaning of, and All Things Regarding Ms. Leading",
+      "artist": "The Dear Hunter",
+      "coverUrl": "https://lastfm.freetls.fastly.net/i/u/300x300/37452d3a3c2049d5a8c2fecba1e2a05e.png"
+    },
+    {
+      "id": 4,
+      "title": "Themata",
+      "artist": "Karnivool",
+      "coverUrl": "https://lastfm.freetls.fastly.net/i/u/300x300/e9d3fa6e42b84570b55694c9ad2cf456.png"
+    },
+    {
+      "id": 5,
+      "title": "Avenged Sevenfold",
+      "artist": "Avenged Sevenfold",
+      "coverUrl": "https://lastfm.freetls.fastly.net/i/u/300x300/4096c46ee0944ff2c700cbdded5b6c92.png"
+    },
+    {
+      "id": 6,
+      "title": "Sound Awake",
+      "artist": "Karnivool",
+      "coverUrl": "https://lastfm.freetls.fastly.net/i/u/300x300/b0faae59ef78426bb63a8a97f1f7ca40.png"
+    },
+    {
+      "id": 7,
+      "title": "Feathergun",
+      "artist": "Rishloo",
+      "coverUrl": "https://lastfm.freetls.fastly.net/i/u/300x300/8051a8bbcb7a4cf79469275039dfdf87.png"
+    },
+    {
+      "id": 8,
+      "title": "The Stage",
+      "artist": "Avenged Sevenfold",
+      "coverUrl": "https://lastfm.freetls.fastly.net/i/u/300x300/42a8b9e69bd8b577bd517dd2bdcbe5e7.png"
+    },
+    {
+      "id": 9,
+      "title": "Act IV: Rebirth in Reprise",
+      "artist": "The Dear Hunter",
+      "coverUrl": "https://lastfm.freetls.fastly.net/i/u/300x300/f64f451f22dd98031d683bf1e028f804.png"
+    },
+    {
+      "id": 10,
+      "title": "Act III: Life and Death",
+      "artist": "The Dear Hunter",
+      "coverUrl": "https://lastfm.freetls.fastly.net/i/u/300x300/f2418e24c55a4e4ba6f5927ad8876a44.png"
+    },
+    {
+      "id": 11,
+      "title": "Life Is But a Dream…",
+      "artist": "Avenged Sevenfold",
+      "coverUrl": "https://lastfm.freetls.fastly.net/i/u/300x300/9b9f71bf0887dfcf8e780dc9a0dff8c7.png"
+    },
+    {
+      "id": 12,
+      "title": "Vector",
+      "artist": "Haken",
+      "coverUrl": "https://lastfm.freetls.fastly.net/i/u/300x300/df1869fbc410294da1bb0ed8cfd262d1.png"
+    },
+    {
+      "id": 13,
+      "title": "Rise Radiant (Bonus Tracks Version)",
+      "artist": "Caligula's Horse",
+      "coverUrl": "https://lastfm.freetls.fastly.net/i/u/300x300/51df2bc9f201d46b7a593361e3d36bfa.png"
+    },
+    {
+      "id": 14,
+      "title": "in a fever dream - EP (Deluxe Edition)",
+      "artist": "Haken",
+      "coverUrl": "https://lastfm.freetls.fastly.net/i/u/300x300/9583db603c6211833c8bfef6f7f6f1f3.png"
+    },
+    {
+      "id": 15,
+      "title": "Living As Ghosts With Buildings As Teeth",
+      "artist": "Rishloo",
+      "coverUrl": "https://lastfm.freetls.fastly.net/i/u/300x300/5ad3b38c3aa74b2fb41db71bd6b5ea1c.png"
+    },
+    {
+      "id": 16,
+      "title": "Alien",
+      "artist": "Strapping Young Lad",
+      "coverUrl": "https://lastfm.freetls.fastly.net/i/u/300x300/5835b6df08024fae9f5ffbdcb0965e5b.png"
+    },
+    {
+      "id": 17,
+      "title": "Images and Words",
+      "artist": "Dream Theater",
+      "coverUrl": "https://lastfm.freetls.fastly.net/i/u/300x300/8d88e0db40243be12dc5dcdcf62ebf11.png"
+    },
+    {
+      "id": 18,
+      "title": "Metropolis Pt. 2: Scenes from a Memory",
+      "artist": "Dream Theater",
+      "coverUrl": "https://lastfm.freetls.fastly.net/i/u/300x300/01f01c23fb63486c8f6cf9c0f3a60c05.png"
+    },
+    {
+      "id": 19,
+      "title": "Blackwater Park",
+      "artist": "Opeth",
+      "coverUrl": "https://lastfm.freetls.fastly.net/i/u/300x300/b1dc58be42ed4121a9aefdcb0ddae2e1.png"
+    },
+    {
+      "id": 20,
+      "title": "Ghost Reveries",
+      "artist": "Opeth",
+      "coverUrl": "https://lastfm.freetls.fastly.net/i/u/300x300/fcd66ec0624d436cb4e5aeb16d1be2a0.png"
+    },
+    {
+      "id": 21,
+      "title": "In the Court of the Crimson King",
+      "artist": "King Crimson",
+      "coverUrl": "https://lastfm.freetls.fastly.net/i/u/300x300/e3ff9cfcebc7428bb841d1ebedae1bc3.png"
+    },
+    {
+      "id": 22,
+      "title": "Red",
+      "artist": "King Crimson",
+      "coverUrl": "https://lastfm.freetls.fastly.net/i/u/300x300/a3922d4a7f0545f78ee9f150dc768560.png"
+    },
+    {
+      "id": 23,
+      "title": "Octopus",
+      "artist": "Gentle Giant",
+      "coverUrl": "https://lastfm.freetls.fastly.net/i/u/300x300/08e063806f1542f7af62a5b6b8b0e7ec.png"
+    },
+    {
+      "id": 24,
+      "title": "Free Hand",
+      "artist": "Gentle Giant",
+      "coverUrl": "https://lastfm.freetls.fastly.net/i/u/300x300/705777bd3ca64b2aa990145cbe27ad6e.png"
+    },
+    {
+      "id": 25,
+      "title": "Led Zeppelin IV",
+      "artist": "Led Zeppelin",
+      "coverUrl": "https://lastfm.freetls.fastly.net/i/u/300x300/62bd58d348aa4cb2ba8a2ca8f6966dd2.png"
+    },
+    {
+      "id": 26,
+      "title": "Physical Graffiti",
+      "artist": "Led Zeppelin",
+      "coverUrl": "https://lastfm.freetls.fastly.net/i/u/300x300/94833fa58a744cb8f9dff88ed63df6ff.png"
+    }
+  ]
+}

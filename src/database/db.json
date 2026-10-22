@@ -1,0 +1,162 @@
+{
+  "$schema": "./node_modules/json-server/schema.json",
+  "albums": [
+    {
+      "id": 1,
+      "title": "In Verses",
+      "artist": "Karnivool",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/65/30/27/6530277d-27e6-362f-cb07-f7caa19994fd/199538678284.jpg/600x600bb.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Asymmetry",
+      "artist": "Karnivool",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/bd/c1/15/bdc11518-7185-dc52-cd6d-cfdfe54a243e/0859381025559.jpg/600x600bb.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Act II: The Meaning of, and All Things Regarding Ms. Leading",
+      "artist": "The Dear Hunter",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/4e/88/6d/4e886d78-35dd-b9d7-60bf-dbe4060c788e/617513776447_cover.jpg/600x600bb.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Themata",
+      "artist": "Karnivool",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/45/8b/5f/458b5f46-6368-e038-01eb-be1cce7d76d4/195081308234.jpg/600x600bb.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Avenged Sevenfold",
+      "artist": "Avenged Sevenfold",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/c4/21/00/c42100f9-f329-aad4-7535-9055429efc3f/mzi.tbskuyey.jpg/600x600bb.jpg"
+    },
+    {
+      "id": 6,
+      "title": "Sound Awake",
+      "artist": "Karnivool",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music/ac/b1/a9/mzi.xczxmuwz.jpg/600x600bb.jpg"
+    },
+    {
+      "id": 7,
+      "title": "Feathergun",
+      "artist": "Rishloo",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/55/4c/91/554c917b-515b-6c9f-bca5-e5c96b0c92e5/mzi.pdkjkiue.jpg/600x600bb.jpg"
+    },
+    {
+      "id": 8,
+      "title": "The Stage",
+      "artist": "Avenged Sevenfold",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/93/c6/93/93c6939c-388a-d89c-5dd0-b389d2e0472b/00602557762518.rgb.jpg/600x600bb.jpg"
+    },
+    {
+      "id": 9,
+      "title": "Act IV: Rebirth in Reprise",
+      "artist": "The Dear Hunter",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/76/7b/e6/767be661-5367-372e-7511-8a1a8526ae20/886445310702.jpg/600x600bb.jpg"
+    },
+    {
+      "id": 10,
+      "title": "Act III: Life and Death",
+      "artist": "The Dear Hunter",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/3c/ec/20/3cec20d5-3b55-b76f-631b-c0fa1e17e00b/646920309160.jpg/600x600bb.jpg"
+    },
+    {
+      "id": 11,
+      "title": "Life Is But a Dream…",
+      "artist": "Avenged Sevenfold",
+      "coverUrl": "https://i.discogs.com/wMIJBULn7Vj2cKxE1fiQgMq9ulrga4XZJ4Xpil-9bNE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MzEw/NDY0LTE3Mjg1MTA4/MjYtNjAyNi5qcGVn.jpeg"
+
+    },
+    {
+      "id": 12,
+      "title": "Vector",
+      "artist": "Haken",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/92/57/4b/92574bba-ea4d-4bb8-237e-5ed73ab16096/886447217696.jpg/600x600bb.jpg"
+    },
+    {
+      "id": 13,
+      "title": "Rise Radiant (Bonus Tracks Version)",
+      "artist": "Caligula's Horse",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/44/15/66/44156642-be97-2b65-15c1-f9dc16c24cdd/886448276388.jpg/600x600bb.jpg"
+    },
+    {
+      "id": 14,
+      "title": "in a fever dream - EP (Deluxe Edition)",
+      "artist": "Haken",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/dd/88/b6/dd88b66c-515c-2a0d-1b46-62cb0baf152d/196874236949.jpg/600x600bb.jpg"
+    },
+    {
+      "id": 15,
+      "title": "Living As Ghosts With Buildings As Teeth",
+      "artist": "Rishloo",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/6a/7c/7b/6a7c7bf5-6e93-b42f-68c3-bc47d760d833/700261415307.jpg/600x600bb.jpg"
+    },
+    {
+      "id": 16,
+      "title": "Alien",
+      "artist": "Strapping Young Lad",
+      "coverUrl": "https://coverartarchive.org/release-group/8c95067d-67f5-33b9-ad8a-da82ed0fcddb/front-500"
+    },
+    {
+      "id": 17,
+      "title": "Images and Words",
+      "artist": "Dream Theater",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/62/02/e1/6202e1a9-e297-848e-c3c2-e4571fc8d2e0/mzi.opgeoigt.jpg/600x600bb.jpg"
+    },
+    {
+      "id": 18,
+      "title": "Metropolis Pt. 2: Scenes from a Memory",
+      "artist": "Dream Theater",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music/90/56/57/mzi.vhigyocz.jpg/600x600bb.jpg"
+    },
+    {
+      "id": 19,
+      "title": "Blackwater Park",
+      "artist": "Opeth",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/7c/7e/c4/7c7ec4f6-29d8-d51b-1e74-49cfb9094b98/828768291221.jpg/600x600bb.jpg"
+    },
+    {
+      "id": 20,
+      "title": "Ghost Reveries",
+      "artist": "Opeth",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music/43/e7/5c/mzi.blsuoftj.jpg/600x600bb.jpg"
+    },
+    {
+      "id": 21,
+      "title": "In the Court of the Crimson King",
+      "artist": "King Crimson",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music5/v4/2f/c7/19/2fc71988-6871-be2c-6731-a3d0f2a6b232/Court_2500px.jpg/600x600bb.jpg"
+    },
+    {
+      "id": 22,
+      "title": "Red",
+      "artist": "King Crimson",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music4/v4/a8/5d/d3/a85dd370-ed7e-1e6f-f2ee-5464f7b3a978/Red_2500px.jpg/600x600bb.jpg"
+    },
+    {
+      "id": 23,
+      "title": "Octopus",
+      "artist": "Gentle Giant",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/57/ac/a8/57aca832-9b2f-2ba5-5196-18ae2fcc7cf5/3616402338428_Cover.jpg/600x600bb.jpg"
+    },
+    {
+      "id": 24,
+      "title": "Free Hand",
+      "artist": "Gentle Giant",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music111/v4/4f/29/37/4f2937b9-afa8-9c57-1bcc-ba55ead3d318/cover.jpg/600x600bb.jpg"
+    },
+    {
+      "id": 25,
+      "title": "Led Zeppelin IV",
+      "artist": "Led Zeppelin",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/5c/15/9b/5c159b27-95ca-b9a7-84e3-28e795fffd39/dj.kvkrpptq.jpg/600x600bb.jpg"
+    },
+    {
+      "id": 26,
+      "title": "Physical Graffiti",
+      "artist": "Led Zeppelin",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/82/6c/5d/826c5d66-67b7-62f2-4d78-dd3c7b415e08/dj.pifhrvpa.jpg/600x600bb.jpg"
+    }
+  ]
+}

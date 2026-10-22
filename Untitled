@@ -1,0 +1,5 @@
+CREATE TABLE albuns (
+    id SERIAL PRIMARY KEY,
+    titulo VARCHAR(100),
+    artista VARCHAR(100)
+);
